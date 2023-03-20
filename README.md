@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @revimortal
 - 👀 I’m interested in ...HACKING
-- 🌱 I’m currently learning ...C,C++,PYTHON
+- 🌱 I’m currently learning ...C,C++,PYTHON, HTML CSS & JAV SCRIPT
 - 💞️ I’m looking to collaborate on ... HACKING COURSES
 - 📫 How to reach me ...CALL ME AT 6206293094 OR MAIL ME ON "HARSHKAPOOR62062@GMAIL.COM"
 
